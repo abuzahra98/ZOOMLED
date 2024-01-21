@@ -11,15 +11,15 @@ https://templatemo.com/tm-590-topic-listing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #ffffff;
-  --secondary-color:              #b01334;
+  --primary-color:                #222050;
+  --secondary-color:              #d52248;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #b01334;
-  --custom-btn-bg-hover-color:    #13547a;
+  --custom-btn-bg-hover-color:    #222050;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #13547a;
+  --link-hover-color:             #222050;
 
   --body-font-family:             'Open Sans', sans-serif;
   --title-font-family:            'Montserrat', sans-serif;
