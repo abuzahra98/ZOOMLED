@@ -1159,3 +1159,12 @@ blockquote {
   }
 }
 
+
+
+.btn_download {
+  background-color: #d52248;
+  padding: 10px 15px;
+  border-radius: 10px;
+  color: white;
+  margin: 20px;
+}
