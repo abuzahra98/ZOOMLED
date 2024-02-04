@@ -293,6 +293,12 @@ strong {
   z-index: 9;
 }
 
+.vvv {
+
+  align-items: center;
+    display: flex;
+    flex-direction: column;
+}
 .navbar-brand,
 .navbar-brand:hover {
   font-size: var(--h3-font-size);
